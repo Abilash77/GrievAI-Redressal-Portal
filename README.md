@@ -1,4 +1,5 @@
-**GrievAI – Redressal Portal**
+**•	🚀 GrievAI – Redressal Portal**
+
 GrievAI – Redressal Portal is a modern, full-stack grievance management system designed to streamline the process of submitting, tracking, and resolving grievances.
 The platform provides a clean user experience for complainants and a controlled admin interface for grievance officers.
 
