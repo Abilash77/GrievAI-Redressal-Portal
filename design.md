@@ -6,7 +6,7 @@ The system follows a modular layered architecture designed for scalability, faul
 
 ### System Components
 
-#### User Interface Layer
+#### User Interface Layer 
 - Web portal for complaint submission and tracking.
 - Conversational AI chatbot.
 - Voice assistant interface.
