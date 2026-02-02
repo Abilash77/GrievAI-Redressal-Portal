@@ -75,7 +75,7 @@ This project focuses on scalability, clarity, and real-world applicability, maki
 •	Mongoose
 
 •	dotenv
-
+ 
 ## Run Locally
 
 **Prerequisites:**  Node.js
