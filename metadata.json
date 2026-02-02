@@ -1,0 +1,7 @@
+{
+  "name": "Grievance Redressal Portal",
+  "description": "A modern, AI-powered grievance redressal system for citizens to lodge complaints and admins to manage them with priority analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
