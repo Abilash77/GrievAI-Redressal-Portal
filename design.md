@@ -2,7 +2,7 @@
 ## AI Powered Grievance Redressal Portal
 
 ### Architecture Overview
-The system follows a modular layered architecture designed for scalability, fault tolerance, and future expansion.
+The system follows a modular layered architecture designed for scalability, fault tolerance, and future expansion. 
 
 ### System Components
 
