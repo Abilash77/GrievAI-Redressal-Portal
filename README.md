@@ -1,14 +1,16 @@
 # AI Powered Grievance Redressal Portal
 
-This repository contains the Phase 1 idea submission documents for AI for Bharat Hackathon.
+
+
+This repository contains the Phase 1 idea submission documents for the AI for Bharat Hackathon.
 
 ## Files
-requirements.md : Problem statement, USP, and core features
+- [requirements.md](requirements.md) : Problem statement, USP, and core features  
+- [design.md](design.md) : Architecture and technical approach  
 
-design.md        : Architecture and technical approach
-
+## Team
 Team Name: Dominator  
-Team Lead: Abilash Aruva  
+Team Lead: Abilash Aruva
 
 
 
