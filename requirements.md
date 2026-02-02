@@ -1,7 +1,7 @@
 # Project Requirements
 ## AI Powered Grievance Redressal Portal
 
-### Overview
+### Overview 
 This project proposes an AI powered grievance redressal platform designed to address large scale public service challenges by automating complaint analysis, prioritization, and resolution. The system focuses on transparency, scalability, accessibility, and trust, making it suitable for nationwide adoption.
 
 ### Problem Statement
