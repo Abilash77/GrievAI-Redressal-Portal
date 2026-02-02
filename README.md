@@ -3,11 +3,19 @@
 This repository contains the Phase 1 idea submission documents for AI for Bharat Hackathon.
 
 ## Files
-- requirements.md: Problem statement, USP, and core features
-- design.md: Architecture and technical approach
+requirements.md  : Problem statement, USP, and core features
+design.md        : Architecture and technical approach
 
 Team Name: Dominator  
 Team Lead: Abilash Aruva  
+
+
+
+
+
+
+  
+
 
 
 
