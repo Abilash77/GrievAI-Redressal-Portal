@@ -1,3 +1,30 @@
+# AI Powered Grievance Redressal Portal
+
+This repository contains the Phase 1 idea submission documents for AI for Bharat Hackathon.
+
+## Files
+- requirements.md: Problem statement, USP, and core features
+- design.md: Architecture and technical approach
+
+Team Name: Dominator  
+Team Lead: Abilash Aruva  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **🚀 GrievAI – Redressal Portal**
 
 GrievAI – Redressal Portal is a modern, full-stack grievance management system designed to streamline the process of submitting, tracking, and resolving grievances.
